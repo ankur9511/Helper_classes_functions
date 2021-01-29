@@ -28,7 +28,6 @@ Shirts MR and Chodera JD. Statistically optimal analysis of samples from multipl
 
 Chodera JD, Swope WC, Pitera JW, Seok C, and Dill KA. Use of the weighted histogram analysis method for the analysis of simulated and parallel tempering simulations. J. Chem. Theor. Comput. 3(1):26-41 (2007). DOI
 
-https://github.com/choderalab/pymbar
 ----------------------------------------------------------------------------------
 
 ### pipeline.sh
