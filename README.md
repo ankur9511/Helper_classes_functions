@@ -20,7 +20,7 @@ Creates a class for 1D umbrella histogram analysis using pymbar (based on pymbar
 - Use Pymbar for computing PMF
 - Class abstraction: User access is limited to final results and histogram
 
-
+----------------------------------------------------------------------------------
 
 ### pipeline.sh
 
