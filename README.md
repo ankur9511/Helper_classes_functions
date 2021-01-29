@@ -9,6 +9,11 @@ Simplifies plotting using matplotlib
 
 #### Class: US_1d
 
+Requirements:
+
+- Python 2
+- PyMBAR
+
 Creates a class for 1D umbrella histogram analysis using pymbar (based on pymbar's example from Prof. Shirt's & Chodera's group):
 - Set histogram analysis settings like temperature, order parameter, production region
 - Extract information from plumed input and output file
