@@ -19,3 +19,9 @@ Creates a class for 1D umbrella histogram analysis using pymbar (based on pymbar
 - Extract information from plumed input and output file
 - Use Pymbar for computing PMF
 - Class abstraction: User access is limited to final results and histogram
+
+
+
+### pipeline
+
+bash based helper script to do molecular simulation with gromacs
