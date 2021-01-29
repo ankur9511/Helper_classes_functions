@@ -22,6 +22,6 @@ Creates a class for 1D umbrella histogram analysis using pymbar (based on pymbar
 
 
 
-### pipeline
+### pipeline.sh
 
 bash based helper script to do molecular simulation with gromacs
