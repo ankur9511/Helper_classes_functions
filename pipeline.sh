@@ -2,14 +2,17 @@
 
 
 ### Usage:
-### pipeline.sh "<var1> <var2> <var3> <>"
+### pipeline.sh "<var0> <var1> <var2> <>"
 ### where variables var1, var2, var3 can be for example:
-### var1: emin
-### var2: emin_input.mdp
+### var0: emin
+### var1: emin_input.mdp
+### var2: start.gro
 ### var3: system.top
 ### var4: em_output.tpr
 ### var5: em_output
 ### var6: .
+### i.e. 
+### $ pipeline.sh "emin emin_input.mdp start.gro system.top em_output.tpr em_output ."
 
 
 ### Import gromacs environment of choice
