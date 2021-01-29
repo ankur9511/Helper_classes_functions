@@ -1,5 +1,17 @@
 #!/bin/bash
 
+
+### Usage:
+### pipeline.sh "<var1> <var2> <var3> <>"
+### where variables var1, var2, var3 can be for example:
+### var1: emin
+### var2: emin_input.mdp
+### var3: system.top
+### var4: em_output.tpr
+### var5: em_output
+### var6: .
+
+
 ### Import gromacs environment of choice
 ### Assumption: 
 ###    gromacs command identifier is "gmx_mpi"
