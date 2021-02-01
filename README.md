@@ -9,8 +9,8 @@ Contains some helper classes and functions that can be directly imported or patc
 
 Simplifies plotting using matplotlib
 
-#### Class: US_1d
-
+#### Class: US_1d 
+Usage shown in file example_USMD_plt.ipynb for reproducing bulk water solvation energy using indirect umbrella sampling ( https://github.com/seanmarks/indus )
 Requirements:
 
 - Python 2
